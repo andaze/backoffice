@@ -1,0 +1,29 @@
+---
+categories: abc
+---
+
+
+Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
+
+...or something like this:
+
+> The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
+
+You should probably delete this page and create new pages for your content. Have fun!
+
+:warning: aaaaabbbbb
+
+いいいいいいいあああああああああ well.
+{: .notice--warning}
+
+いいいいいいいあああああああああ well.
+{: .notice--danger}
+
+うううううかかかいいいいいいあああああああああ.
+{: .notice--info}
+
+
+![](../assets/images/2020-02-10-14-38-00.png)
+
+**Please Note:** Paths foあああああああああ well.
+{: .notice--danger}
