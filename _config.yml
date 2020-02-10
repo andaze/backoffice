@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "小さな会社のバックオフィス備忘録"
+title                    : "バックオフィスの備忘録"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "あああああ"
@@ -104,13 +104,12 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
-  name             : "藤巻 良彦"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "エンジニア"
-  location         : "東京都千代田区"
+  name             : "Yoshihiko Fujimaki"
+  avatar           : /assets/images/fujimaki.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "System Engineer"
+  location         : "Chiyoda, Tokyo"
   email            : 
   links:
     - label: "Email"
