@@ -11,18 +11,18 @@ Azure DevOpsのリポジトリから、HugoでNetlifyへデプロイする手順
 
 ## リポジトリ
 
-- $/Andaze/Docsとする
+- $/Andaze/Docsとする（Dは大文字）
 
 ## テーマ
 
-- Theme: Docsy by Google
-  [デモサイト](https://www.docsy.dev/)
-  [HugoのDocsy紹介ページ](https://themes.gohugo.io/docsy/)
-  [Githubのページ](https://github.com/google/docsy)
+- Docsy by Google
+- [デモサイト](https://www.docsy.dev/)
+- [HugoのDocsy紹介ページ](https://themes.gohugo.io/docsy/)
+- [Githubのページ](https://github.com/google/docsy)
 
 ## デプロイする場所
 
-- docs.andaze.com
+- docs.\*.com
 
 # 関連するプラグイン
 
@@ -35,6 +35,6 @@ Azure DevOpsのリポジトリから、HugoでNetlifyへデプロイする手順
 
 ## 関連するブログ
 
-- Blog: Azure DevOps + Netlify + Hugo
-  https://community.netlify.com/t/azure-devops-netlify-hugo/2205
+- 設定についての質問 [Netlifyコミュニティ Azure DevOps+Netlify+Hugo](https://community.netlify.com/t/azure-devops-netlify-hugo/2205)
+
 
