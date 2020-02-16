@@ -16,9 +16,9 @@ Azure DevOpsのリポジトリから、HugoでNetlifyへデプロイする手順
 ## テーマ
 
 - Theme: Docsy by Google
-  https://www.docsy.dev/
-  https://themes.gohugo.io/docsy/
-  https://github.com/google/docsy
+  [デモサイト](https://www.docsy.dev/)
+  [HugoのDocsy紹介ページ](https://themes.gohugo.io/docsy/)
+  [Githubのページ](https://github.com/google/docsy)
 
 ## デプロイする場所
 
