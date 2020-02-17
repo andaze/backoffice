@@ -36,5 +36,3 @@ Azure DevOpsのリポジトリから、HugoでNetlifyへデプロイする手順
 ## 関連するブログ
 
 - 設定についての質問 [Netlifyコミュニティ Azure DevOps+Netlify+Hugo](https://community.netlify.com/t/azure-devops-netlify-hugo/2205)
-
-
