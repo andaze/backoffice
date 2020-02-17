@@ -2,23 +2,24 @@
 title: "Hugo + NetlifyをAzure DevOpsで使う"
 ---
 
-Azure DevOpsのリポジトリから、HugoでNetlifyへデプロイする手順です。
+Azure DevOps のリポジトリから、Hugo で Netlify へデプロイする手順です。
 
 # 仕様
 
 ## デプロイの流れ
+
 - Azure DevOps > Hugo > Netlify
 
 ## リポジトリ
 
-- $/Andaze/Docsとする（Dは大文字）
+- \$/Andaze/Docs とする（D は大文字）
 
 ## テーマ
 
 - Docsy by Google
 - [デモサイト](https://www.docsy.dev/)
-- [HugoのDocsy紹介ページ](https://themes.gohugo.io/docsy/)
-- [Githubのページ](https://github.com/google/docsy)
+- [Hugo の Docsy 紹介ページ](https://themes.gohugo.io/docsy/)
+- [Github のページ](https://github.com/google/docsy)
 
 ## デプロイする場所
 
@@ -26,11 +27,10 @@ Azure DevOpsのリポジトリから、HugoでNetlifyへデプロイする手順
 
 # 関連するプラグイン
 
-- [Azure DevOpsのHugoプラグイン](https://marketplace.visualstudio.com/items?itemName=giuliovdev.hugo-extension)
+- [Azure DevOps の Hugo プラグイン](https://marketplace.visualstudio.com/items?itemName=giuliovdev.hugo-extension)
 
-- [Azure DevOpsのNetlifyプラグイン](https://marketplace.visualstudio.com/items?itemName=aliencube.netlify-cli-extensions)
-
+- [Azure DevOps の Netlify プラグイン](https://marketplace.visualstudio.com/items?itemName=aliencube.netlify-cli-extensions)
 
 ## 関連するブログ
 
-- 設定についての質問 [Netlifyコミュニティ Azure DevOps+Netlify+Hugo](https://community.netlify.com/t/azure-devops-netlify-hugo/2205)
+- 設定についての質問 [Netlify コミュニティ Azure DevOps+Netlify+Hugo](https://community.netlify.com/t/azure-devops-netlify-hugo/2205)
