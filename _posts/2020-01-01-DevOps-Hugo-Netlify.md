@@ -2,7 +2,6 @@
 title: "Hugo + NetlifyをAzure DevOpsで使う"
 ---
 
-
 Azure DevOpsのリポジトリから、HugoでNetlifyへデプロイする手順です。
 
 # 仕様
