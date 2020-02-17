@@ -22,15 +22,13 @@ Azure DevOpsのリポジトリから、HugoでNetlifyへデプロイする手順
 
 ## デプロイする場所
 
-- docs.\*.com
+- docs.andaze.com
 
 # 関連するプラグイン
 
-- Azure DevOps Hugo
-  https://marketplace.visualstudio.com/items?itemName=giuliovdev.hugo-extension
+- [Azure DevOpsのHugoプラグイン](https://marketplace.visualstudio.com/items?itemName=giuliovdev.hugo-extension)
 
-- Azure DevOps Netlify
-  https://marketplace.visualstudio.com/items?itemName=aliencube.netlify-cli-extensions
+- [Azure DevOpsのNetlifyプラグイン](https://marketplace.visualstudio.com/items?itemName=aliencube.netlify-cli-extensions)
 
 
 ## 関連するブログ
